@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 1066-EF96
+
+ Directory of C:\Users\EGON\Desktop\Coursera Bootstrap\course1\week1
+
+21/05/2018  20:35    <DIR>          .
+21/05/2018  20:35    <DIR>          ..
+21/05/2018  20:35                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  752.630.353.920 bytes free
